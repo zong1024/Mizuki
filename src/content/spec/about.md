@@ -1,49 +1,23 @@
+这里是我的个人博客。
 
-This website is built with the **Astro** framework using the [Mizuki](https://github.com/LyraVoid/Mizuki) theme.
+我会把一些值得保留下来的内容慢慢整理到这里，包括项目记录、开发笔记、硬件折腾，以及偶尔想认真写下来的想法。
 
-::github{repo="LyraVoid/Mizuki"}
+## 这里会写些什么
 
-## 🌟 Theme Features
+- 树莓派、嵌入式和小工具相关的折腾记录
+- Web 开发、脚本工具和部署过程中的经验
+- 做项目时踩过的坑、做过的取舍和复盘
+- 一些暂时不想被时间冲淡的随笔
 
-### 🎨 Design & User Experience
-- **Modern & Elegant Design** - Clean, minimalist interface with beautiful typography
-- **Fully Responsive** - Optimized for all devices from mobile to desktop
-- **Dark/Light Mode** - Automatic theme switching with smooth transitions
-- **Beautiful Typography** - Enhanced readability with JetBrains Mono font
-- **Smooth Animations** - Fluid page transitions and interactive elements
+## 关于这个站
 
-### 🔍 Content & Search
-- **Advanced Search** - Powered by [Pagefind](https://pagefind.app/) for fast, accurate results
-- **Enhanced Markdown** - Extended syntax with code highlighting and math support
-- **Interactive Table of Contents** - Auto-scroll navigation for long articles
-- **RSS Feed Generation** - Stay updated with automatic feed generation
-- **Reading Time Estimation** - Know how long articles take to read
-- **Post Categorization** - Organize content with tags and categories
+这个站点基于 **Astro** 和 [Mizuki](https://github.com/matsuzaka-yuki/Mizuki) 主题搭建，目前还在持续整理内容和调整细节。
 
+如果你对我的项目感兴趣，可以先从这些地方找到我：
 
+- GitHub: [zong1024](https://github.com/zong1024)
+- InkPi: [InkPi-Raspberry-Pi](https://github.com/zong1024/InkPi-Raspberry-Pi)
 
-### 📱 Special Pages
-- **Anime Tracking Page** - Track your anime watching progress with ratings
-- **Friends Links Page** - Showcase friend websites with beautiful cards
-- **Diary/Moments Page** - Share life moments like social media posts
-- **Archive Page** - Organized timeline view of all posts
-- **About Page** - Customizable personal introduction (this page!)
+## 一点说明
 
-### 🛠 Technical Features
-- **Enhanced Code Blocks** - Powered by [Expressive Code](https://expressive-code.com/)
-- **Math Support** - LaTeX rendering with KaTeX for mathematical expressions
-- **Image Optimization** - PhotoSwipe gallery with lazy loading
-- **SEO Optimized** - Built-in sitemap and meta tags for better search visibility
-- **Performance Optimized** - Fast loading with caching and optimization
-- **Comment System Ready** - Integration support for Twikoo comments
-
-### 🎯 Advanced Markdown Features
-- **Callouts & Admonitions** - Beautiful info boxes with `> [!NOTE]`, `> [!TIP]`, `> [!WARNING]`
-- **Mathematical Equations** - Write LaTeX math with `$inline$` and `$$block$$` syntax
-- **GitHub Cards** - Embed repository cards with `::github{repo="user/repo"}`
-- **Syntax Highlighting** - Advanced code highlighting with line numbers
-- **Copy Code Buttons** - Easy code copying functionality
-
----
-
-*Built with ❤️ using Astro and inspired by modern web design principles.*
+`1111.txt` 里原本想参考的简介目前还是空的，所以这个页面先放了一版简洁自述。后面等内容整理出来后，我会再把这里补成更完整的个人介绍。
